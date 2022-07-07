@@ -7,8 +7,7 @@ public class Ej4App {
 		// TODO Auto-generated method stub
 		
 		double area;
-		//double radio;
-		
+				
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Introduce el radio del circulo:");
