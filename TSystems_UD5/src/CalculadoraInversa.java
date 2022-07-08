@@ -46,10 +46,6 @@ public class CalculadoraInversa {
 				JOptionPane.showMessageDialog(null,  "Entrada incorrecta");
 		}
 		
-		
-		
-		
-		
 	}
 
 }
